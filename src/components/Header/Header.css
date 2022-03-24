@@ -7,6 +7,7 @@ nav {
   padding: 0px 145px;
   position: sticky;
   top: 0px;
+  z-index: 999;
 }
 
 nav .menu a {
